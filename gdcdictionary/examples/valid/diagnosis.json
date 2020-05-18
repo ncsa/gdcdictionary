@@ -55,6 +55,7 @@
     "mitotic_count":12,
     "mitosis_karyorrhexis_index":"Not Reported",
     "morphology": "8255/3",
+    "multiple_sites_of_disease": ["A", "B"],
     "non_nodal_regional_disease":"Absent",
     "non_nodal_tumor_deposits":"Yes",
     "ovarian_specimen_status":"Ovarian Capsule Ruptured",

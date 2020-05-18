@@ -2719,6 +2719,11 @@ properties:
         $ref:
           - "_terms.yaml#/not_reported/common"
 
+  multiple_sites_of_disease:
+    type: array
+    items:
+      type: string
+  
   non_nodal_regional_disease:
     $ref:
       - "_terms.yaml#/non_nodal_regional_disease/common"
